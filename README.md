@@ -62,7 +62,8 @@ Provide a YouTube link, transcribe the audio automatically, then generate a read
 
 Clarivo is designed to support different summarization scenarios:
 
-- **Recommended Mode** for the best general-purpose summary quality
+- **Instant/Recommended Mode** for faster performance and lower compute usage
+- **Performance Mode** for the best general-purpose summary quality
 - **Long Video Mode** for lengthy educational transcripts
   
 ### 3. Adjustable Summary Depth
