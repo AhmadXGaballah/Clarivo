@@ -58,6 +58,13 @@ Paste articles, notes, reports, transcripts, or long-form content and generate c
 ### 2. YouTube Summarization
 Provide a YouTube link, transcribe the audio automatically, then generate a readable summary from the transcript.
 
+### 3. Model Modes
+
+Clarivo is designed to support different summarization scenarios:
+
+- **Recommended Mode** for the best general-purpose summary quality
+- **Long Video Mode** for lengthy educational transcripts
+  
 ### 3. Adjustable Summary Depth
 Choose how much detail you want in the output:
 
