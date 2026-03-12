@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/20d0e303-d8af-4818-8a14-2ea183f8e8fb" alt="Clarivo Icon" width="400" />
@@ -26,34 +27,26 @@
 
 ## Product Overview
 
-**Clarivo** is an AI summarization application designed to convert long-form text and YouTube content into concise, structured insights.  
-It helps users reduce information overload, accelerate understanding, and move from raw content to actionable takeaways faster.
+**Long educational videos are valuable, but your time is even more valuable.**
+
+That is why **Clarivo** exists.
+
+**Clarivo** is an AI summarization application designed to help users extract the essential insights from long-form educational content without committing to the full viewing time. By converting lengthy videos into concise, high-signal summaries, it enables faster learning, better focus, and more efficient knowledge consumption.
 
 Built as a lightweight AI productivity product, Clarivo combines:
 
-- **PEGASUS** for abstractive summarization
+- **FLAN-T5** for summarization
 - **Whisper** for audio transcription
 - **Streamlit** for an intuitive interactive interface
 
+> **Turn hours of content into minutes of clarity.**
 ---
 
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f859898-7f2a-4a91-8032-2475f5aac607" alt="Clarivo UI Preview" width="900"/>
+  <img src="https://github.com/user-attachments/assets/c379411d-fa53-40ab-b5cf-a74d568bec08" alt="Clarivo UI Preview" width="900"/>
 </p>
-
----
-
-## Why Clarivo
-
-**Long educational videos are valuable, but your time is even more valuable.**
-
-That is why **Clarivo** exists.
-
-Clarivo is designed to help users extract the essential insights from long-form educational content without committing to the full viewing time. By converting lengthy videos into concise, high-signal summaries, it enables faster learning, better focus, and more efficient knowledge consumption.
-
-> **Turn hours of content into minutes of clarity.**
 
 ---
 
@@ -94,6 +87,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run clarivo.py
 ```
+
 
 
 
