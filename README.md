@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Productivity-AI%20Powered-0A7F5A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-PEGASUS-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Whisper-Transcription-1F6FEB?style=for-the-badge" />
