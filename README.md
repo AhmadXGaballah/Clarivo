@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/20d0e303-d8af-4818-8a14-2ea183f8e8fb" alt="Clarivo Icon" width="400" />
+<img src="https://github.com/user-attachments/assets/c961a7c5-4dc8-4016-9763-db70f99dd550" alt="Clarivo Icon" width="400" />
 <div align="center">
 <img src="https://github.com/user-attachments/assets/fc9041fe-5451-4fd9-838f-e9452e6930b0" alt="Clarivo Icon" width="400" />
 
