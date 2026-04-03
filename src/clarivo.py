@@ -21,8 +21,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
-
-# Hide sidebar completely
 st.markdown(
     """
     <style>
